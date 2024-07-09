@@ -1,0 +1,16 @@
+[
+  {
+    "origen": "GBP",
+    "destino": "AUD",
+    "cantidad": 89.0,
+    "cantidadConvertida": 169.26909999999998,
+    "tasa": 1.9019
+  },
+  {
+    "origen": "EUR",
+    "destino": "CHF",
+    "cantidad": 789.0,
+    "cantidadConvertida": 766.6713,
+    "tasa": 0.9717
+  }
+]
