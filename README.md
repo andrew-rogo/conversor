@@ -29,11 +29,12 @@ Este proyecto es una aplicación de consola para convertir monedas utilizando la
 
 ## Captura de pantalla
 
-![Captura de pantalla de la aplicación]((https://asset.cloudinary.com/delzalod3/822512c76584995338954df34b9565c7))
+![Captura de pantalla de la aplicación]((https://asset.cloudinary.com/delzalod3/822512c76584995338954df34b9565c7)
 
 ## Video de demostración
 
-[![Video de demostración]((https://asset.cloudinary.com/delzalod3/822512c76584995338954df34b9565c7))]((https://youtu.be/aoT6PODeMzk))
+[![Video de demostración]<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=aoT6PODeMzk&feature=youtu.be)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Cómo ejecutar el proyecto
 
