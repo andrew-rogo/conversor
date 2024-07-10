@@ -33,7 +33,7 @@ Este proyecto es una aplicación de consola para convertir monedas utilizando la
 
 ## Video de demostración
 
-(https://asset.cloudinary.com/delzalod3/822512c76584995338954df34b9565c7)(https://www.youtube.com/watch?v=aoT6PODeMzk&feature=youtu.be)
+(https://www.youtube.com/watch?v=aoT6PODeMzk&feature=youtu.be)
 
 
 ## Cómo ejecutar el proyecto
